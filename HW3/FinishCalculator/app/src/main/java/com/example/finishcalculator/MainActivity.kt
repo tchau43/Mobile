@@ -1,4 +1,4 @@
-package com.example.hw2
+package com.example.finishcalculator
 
 import android.os.Bundle
 import android.view.View

@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "HW2"
+rootProject.name = "FinishCalculator"
 include(":app")

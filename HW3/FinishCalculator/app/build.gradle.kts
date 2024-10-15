@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.hw2"
+    namespace = "com.example.finishcalculator"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.hw2"
+        applicationId = "com.example.finishcalculator"
         minSdk = 22
         targetSdk = 34
         versionCode = 1

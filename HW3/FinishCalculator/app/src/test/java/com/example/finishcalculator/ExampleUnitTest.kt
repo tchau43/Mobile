@@ -1,4 +1,4 @@
-package com.example.hw2
+package com.example.finishcalculator
 
 import org.junit.Test
 
