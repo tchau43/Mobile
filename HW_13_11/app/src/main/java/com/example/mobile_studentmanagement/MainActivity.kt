@@ -14,19 +14,21 @@ class MainActivity : AppCompatActivity() {
 
     private lateinit var studentAdapter: StudentAdapter
     private val students = mutableListOf(
-        StudentModel("Nguyễn Văn A", "20210001"),
-        StudentModel("Trần Thị B", "20210002"),
-        StudentModel("Lê Văn C", "20210003"),
-        StudentModel("Phạm Thị D", "20210004"),
-        StudentModel("Đỗ Văn E", "20210005"),
-        StudentModel("Bùi Thị F", "20210006"),
-        StudentModel("Hoàng Văn G", "20210007"),
-        StudentModel("Lý Thị H", "20210008"),
-        StudentModel("Vũ Văn I", "20210009"),
-        StudentModel("Phan Thị J", "20210010"),
-        StudentModel("Ngô Văn K", "20210011"),
-        StudentModel("Đặng Thị L", "20210012"),
-        StudentModel("Dương Văn M", "20210013")
+        StudentModel("Nguyễn Thị Anh", "20220001"),
+        StudentModel("Trần Văn Bình", "20220002"),
+        StudentModel("Lê Thị Cẩm", "20220003"),
+        StudentModel("Phạm Văn Đức", "20220004"),
+        StudentModel("Đỗ Thị Hoa", "20220005"),
+        StudentModel("Bùi Văn Khánh", "20220006"),
+        StudentModel("Hoàng Thị Lan", "20220007"),
+        StudentModel("Lý Văn Minh", "20220008"),
+        StudentModel("Vũ Thị Ngọc", "20220009"),
+        StudentModel("Phan Văn Phúc", "20220010"),
+        StudentModel("Ngô Thị Quỳnh", "20220011"),
+        StudentModel("Đặng Văn Sơn", "20220012"),
+        StudentModel("Dương Thị Trang", "20220013"),
+        StudentModel("Nguyễn Văn Việt", "20220014"),
+        StudentModel("Trần Thị Xuân", "20220015")
     )
 
     override fun onCreate(savedInstanceState: Bundle?) {
